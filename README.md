@@ -14,7 +14,7 @@ Before you begin, make sure you have ruby installed:
 ruby --version
 ```
 
-I recommend using [rbenv](https://github.com/rbenv/rbenv) to install rbenv if you don't:
+If you don't have it installed, I recommend using [rbenv](https://github.com/rbenv/rbenv):
 
 ```sh
 brew install rbenv
